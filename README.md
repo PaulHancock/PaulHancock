@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an astronomer turned data scientist working at the Curtin Institute for Computation. As an astronomer I collect voltages from TV antennas in the Australian desert and turn them into images of the universe using the supercomputers at Pawsey. Sounds like magic but thats how low frequency radio astronomy works!
+I'm an astronomer turned data scientist working at the Curtin Institute for Computation. In my time as an astronomer I explored the transient universe and developed software workflows to support large radio surveys. At the CIC I now support astronomers via the Astronomoy Data And Computing Services ([ADACS](https://www.adacs.org)), teach computing courses, and support variety of data science projects within Curtin.
 
 - 🔭 I'm currently working on making the world a better place. Small steps are important. In my professional life this means creating software for astronomy which will make better use of current instruments, and make it possible to work with the telescopes of the future on the computers of the future.
 - 🌱 I'm currently learning more about containers every day. Right now I'm enjoying the portability that they give to my projects.
