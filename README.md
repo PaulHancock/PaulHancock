@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an astronomer turned data scientist working at the Curtin Institute for Computation. In my time as an astronomer I explored the transient universe and developed software workflows to support large radio surveys. At the CIC I now support astronomers via the Astronomy Data And Computing Services ([ADACS](https://www.adacs.org)), teach computing courses, and support variety of data science projects within Curtin.
+I'm an astronomer turned data scientist working at the Curtin Institute for Data Science ([CIDS](https://datascience.curtin.edu.au/)). In my time as an astronomer I explored the transient universe and developed software workflows to support large radio surveys. At the CIDS I now support astronomers via the Astronomy Data And Computing Services ([ADACS](https://www.adacs.org)), teach computing courses, and support variety of data science projects within Curtin.
 
 - 🔭 I'm currently working on making the world a better place. Small steps are important. In my professional life this means creating software for astronomy which will make better use of current instruments, and make it possible to work with the telescopes of the future on the computers of the future.
 - 👯 I'm looking to collaborate on anything that can make use of source finding algorithims in radio astronomy. Do you have a large volume of survey images that you need to turn into catalogues? I can help!
